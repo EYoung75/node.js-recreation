@@ -1,0 +1,71 @@
+.logo {
+    height: 75px;
+    width: 120px;
+}
+
+.foundation {
+    background-color: green;
+}
+
+.node-nav, footer {
+    background-color: #3c3d3f;
+}
+
+a {
+    color: white;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+}
+
+.green-link {
+    color: green;
+}
+
+.row1 {
+    padding: 50px;
+    justify-content: center;
+}
+
+img {
+    width: 750px;
+}
+
+h5 {
+    padding-bottom: 15px;
+}
+
+.upgrade {
+    background-color: #b6eabd;
+    padding: 10px;
+    display:flex;
+    justify-content: center;
+    margin-left: 16%;
+    margin-right: 16%;
+}
+
+.download {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin: 10px;
+}
+
+footer {
+    height: 250px; 
+    padding-left: 20%;
+    color: white;
+    font-size: 12px;
+    padding-top: 25px;
+    white-space: nowrap;
+}
+
+ a, h3, h4, h5, p, li   {
+        font-family: 'Open Sans', sans-serif;
+
+    }
